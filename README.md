@@ -10,7 +10,6 @@
 I'm a CS major student currently pursuing my master's degree from MNNIT Allahabad, Prayagraj. My primary tech stack is web development, and I'm currently 🌱 learning React ⚛ and Django 🐍.
 My personal interests involve anime and digital illustration.
 
-<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-minj-a8106825b)
@@ -19,7 +18,6 @@ My personal interests involve anime and digital illustration.
 [![Github](https://img.shields.io/badge/GitHub-%23212121.svg?logo=github&logoColor=white)](https://github.com/VishalMinj)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishal.minj14) 
 
-<br>
 
 ## ⚒️ Languages-Frameworks-Tools:
 <div>
